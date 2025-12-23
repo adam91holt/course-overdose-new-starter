@@ -1,5 +1,8 @@
 # Living The Culture
 
+
+![Living The Culture](/courses/overdose-new-starter/assets/lesson-images/m4_04_living_culture.jpg)
+
 Culture isn't what we say — it's what we do. Every day, every interaction, every decision either reinforces or undermines our culture. This lesson is about the behaviors and habits that make someone a true member of the Overdose family.
 
 ## Learning Objectives
@@ -54,8 +57,6 @@ This combination is rare but essential.
 
 > **The Sweet Spot:** Humble enough to learn, confident enough to contribute.
 
-![Team success celebration](https://images.unsplash.com/photo-1552581234-26160f608093?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Team collaboration and success*
 
 ## Daily Habits That Build Culture
 

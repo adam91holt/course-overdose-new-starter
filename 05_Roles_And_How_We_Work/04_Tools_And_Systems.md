@@ -1,5 +1,8 @@
 # Tools & Systems
 
+
+![Tools And Systems](/courses/overdose-new-starter/assets/lesson-images/m5_04_tools.jpg)
+
 Every professional needs to know their tools. At Overdose, we use a range of systems for communication, project management, design, development, and operations. Let's get you oriented.
 
 ## Learning Objectives
@@ -54,8 +57,6 @@ Google Meet, Zoom, or Teams depending on client preference. Virtual face-to-face
 - Be on time (respect others' calendars)
 - Test your setup before important calls
 
-![Digital workplace tools](https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Digital workplace setup*
 
 ## Project Management
 

@@ -1,5 +1,8 @@
 # The Distributed Retainer Model
 
+
+![Distributed Retainer Model](/courses/overdose-new-starter/assets/lesson-images/m2_04_retainer.jpg)
+
 Here's where Overdose really breaks from the traditional agency playbook. Our commercial model isn't just different — it fundamentally changes the relationship between us and our clients. Understanding this model is essential because it shapes everything about how we work.
 
 ## Learning Objectives
@@ -60,8 +63,6 @@ We're not doing projects and disappearing. We're embedded partners who stick aro
 - Long-term thinking instead of quick fixes
 - Genuine accountability for results
 
-![Business partnership handshake](https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Partnership concept*
 
 ## How It Works In Practice
 

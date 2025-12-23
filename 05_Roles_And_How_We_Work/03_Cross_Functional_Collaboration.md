@@ -1,5 +1,8 @@
 # Cross-Functional Collaboration
 
+
+![Cross-Functional Collaboration](/courses/overdose-new-starter/assets/lesson-images/m5_03_collaboration.jpg)
+
 Complete Commerce isn't just about having all the disciplines — it's about how they work together. Cross-functional collaboration is where Overdose's model really shines. Let's explore how we make it work.
 
 ## Learning Objectives
@@ -27,8 +30,6 @@ No discipline can succeed at the expense of another. If the strategy is brillian
 
 > **The Principle:** We succeed or fail as a team, not as individual disciplines.
 
-![Cross-functional teamwork](https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Diverse team collaboration*
 
 ## How Projects Actually Work
 

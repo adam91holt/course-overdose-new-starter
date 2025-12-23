@@ -1,5 +1,8 @@
 # Complete Commerce Explained
 
+
+![Complete Commerce](/courses/overdose-new-starter/assets/lesson-images/m2_01_complete_commerce.jpg)
+
 You've probably heard the term "Complete Commerce" thrown around. It's not just marketing speak — it's the fundamental way we think about what we do. Let's break down what it actually means and why it matters.
 
 ## Learning Objectives
@@ -26,8 +29,6 @@ The result? Chaos. The design agency creates something beautiful that the dev sh
 
 > **The OD Insight:** Commerce doesn't work in silos. Every decision in one area affects every other area. You need one team that understands the whole picture.
 
-![Integrated business approach](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Integrated team collaboration*
 
 ## What Complete Commerce Actually Means
 

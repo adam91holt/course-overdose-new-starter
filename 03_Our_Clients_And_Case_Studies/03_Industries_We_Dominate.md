@@ -1,5 +1,8 @@
 # Industries We Dominate
 
+
+![Industries We Dominate](/courses/overdose-new-starter/assets/lesson-images/m3_03_industries.jpg)
+
 While we work across sectors, certain industries represent our core strength. In these verticals, we've accumulated deep expertise, extensive track records, and genuine understanding of what makes commerce work. Let's explore where we truly excel.
 
 ## Learning Objectives
@@ -37,8 +40,6 @@ This is our heartland. From streetwear to premium fashion, we've worked with bra
 ### Fashion Clients
 SABA, David Lawrence, Standard Issue, 3 Wise Men, Federation Clothing
 
-![Fashion retail display](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Fashion retail environment*
 
 ## Footwear
 

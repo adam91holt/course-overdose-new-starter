@@ -1,5 +1,8 @@
 # Welcome to the Family
 
+
+![Welcome To The Family](/courses/overdose-new-starter/assets/lesson-images/m6_04_welcome.jpg)
+
 You made it. You've learned our story, our services, our clients, our culture, how we work, and where we're heading. Now it's time to close out with what really matters: you're part of this now.
 
 ## Learning Objectives
@@ -22,8 +25,6 @@ That means:
 
 > **The Bottom Line:** You're not an outsider trying to fit in. You're a new member of a family that's glad you're here.
 
-![Welcome to the team](https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Team welcome*
 
 ## The OD Family
 

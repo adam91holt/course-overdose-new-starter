@@ -1,5 +1,8 @@
 # Case Study Spotlight
 
+
+![Case Study Spotlight](/courses/overdose-new-starter/assets/lesson-images/m3_02_case_study.jpg)
+
 Theory is great. Results are better. Let's look at real examples of how Overdose has helped clients transform their commerce operations. These case studies show our approach in action and the outcomes we've achieved.
 
 ## Learning Objectives
@@ -26,8 +29,6 @@ That's not incremental improvement — that's transformation. By creating a digi
 ### The Lesson
 Digital transformation doesn't mean abandoning what works. It means extending it. Understanding the client's existing business model was essential to designing a solution that enhanced rather than disrupted.
 
-![Ecommerce success metrics](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Digital transformation results*
 
 ## ECOYA: Elevating Brand Experience
 

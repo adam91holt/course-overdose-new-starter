@@ -1,5 +1,8 @@
 # Our Service Pillars
 
+
+![Service Pillars](/courses/overdose-new-starter/assets/lesson-images/m2_02_service_pillars.jpg)
+
 Now let's get into the details. Each of our six service pillars has specific capabilities, methodologies, and specialists. Whether you're working in one of these areas or collaborating with teams who do, understanding what each pillar actually delivers is essential.
 
 ## Learning Objectives
@@ -29,8 +32,6 @@ Our strategists are obsessed with "why" before "what." They push back on assumpt
 ### Who Works in Strategy:
 Commerce Strategists, Client Partners, Business Analysts
 
-![Strategic planning session](https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Strategic planning*
 
 ## UX/UI & Conversion Rate Optimization
 

@@ -1,5 +1,8 @@
 # The OD Way of Working
 
+
+![The OD Way Of Working](/courses/overdose-new-starter/assets/lesson-images/m4_03_way_working.jpg)
+
 Values are philosophy. This lesson is about practice. How do we actually work at Overdose? What rhythms, rituals, and behaviors define the OD experience? Let's get practical.
 
 ## Learning Objectives
@@ -39,8 +42,6 @@ Speed doesn't mean recklessness:
 
 > **The Balance:** "Done is better than perfect" — but "done badly" isn't done at all. Quality and speed aren't opposites.
 
-![Fast-paced work environment](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Dynamic team collaboration*
 
 ## Communication Culture
 

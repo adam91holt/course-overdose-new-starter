@@ -1,5 +1,8 @@
 # Where Overdose Is Heading
 
+
+![Where Overdose Is Heading](/courses/overdose-new-starter/assets/lesson-images/m6_02_future.jpg)
+
 Understanding where the company is going helps you see where your career might go. Overdose has grown dramatically since 2016, but we're far from done. Let's look at the trajectory and what it means for you.
 
 ## Learning Objectives
@@ -45,8 +48,6 @@ We're deepening expertise in strategic areas:
 
 **Data & Analytics:** As commerce becomes more data-driven, our analytics capabilities become more valuable.
 
-![Business growth trajectory](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Growth trajectory*
 
 ### Market Position
 We're cementing our position as the leading Anti-Agency:

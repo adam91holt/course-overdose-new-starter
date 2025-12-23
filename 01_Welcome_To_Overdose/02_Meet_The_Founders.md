@@ -1,5 +1,8 @@
 # Meet The Founders
 
+
+![Meet The Founders](/courses/overdose-new-starter/assets/lesson-images/m1_02_founders.jpg)
+
 Behind every great company are the people crazy enough to start it. At Overdose, that's Ryan Delaney and Todd Welling — two commerce veterans who met through the industry, saw its problems firsthand, and decided to build something better.
 
 ## Learning Objectives
@@ -20,8 +23,6 @@ They hit it off. Not in a "let's grab a beer sometime" way, but in a "we think t
 
 By early 2016, they'd had enough of watching from the sidelines. Time to build something different.
 
-![Business partnership concept](https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Founders collaboration*
 
 ## Ryan Delaney — Group Chief Experience Officer
 

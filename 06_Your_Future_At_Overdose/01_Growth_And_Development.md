@@ -1,5 +1,8 @@
 # Growth & Development
 
+
+![Growth And Development](/courses/overdose-new-starter/assets/lesson-images/m6_01_growth.jpg)
+
 You didn't join Overdose just to do a job — you joined to build a career. This lesson covers how we think about growth and development, and what opportunities exist for you to level up.
 
 ## Learning Objectives
@@ -28,8 +31,6 @@ Development isn't just about promotions. It's about getting better every day —
 
 > **The Deal:** You bring curiosity and effort. We bring opportunities and support.
 
-![Career growth path](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Professional development*
 
 ## Types of Growth
 

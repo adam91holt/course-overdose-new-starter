@@ -2,8 +2,8 @@
   "id": "overdose-new-starter",
   "title": "Overdose New Starter",
   "description": "<p>Welcome to Overdose. You've just joined the Anti-Agency, Agency — a crew of 450+ commerce professionals who break the rules, think bigger, and get sh*t done. This course will get you up to speed on who we are, what we do, and how we do it differently. No fluff. Just the real stuff you need to hit the ground running.</p>",
-  "color": "#FF4136",
-  "coverImage": "cover.jpg",
+  "color": "#5A3CD3",
+  "coverImage": "assets/cover.jpg",
   "modules": [
     {
       "id": "01_Welcome_To_Overdose",

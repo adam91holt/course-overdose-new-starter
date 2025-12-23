@@ -1,5 +1,8 @@
 # Our Core Values
 
+
+![Our Core Values](/courses/overdose-new-starter/assets/lesson-images/m4_02_values.jpg)
+
 Values aren't posters on walls — they're how you actually behave when no one's watching. At Overdose, our values are distilled into a simple phrase that captures everything: **"Break the rules. Think bigger. Get sh*t done."** Let's unpack what that really means.
 
 ## Learning Objectives
@@ -40,8 +43,6 @@ This is the first principle and sets the tone for everything else. It doesn't me
 
 > **The Test:** "We're doing this differently because it'll produce better results" = Good. "We're doing this differently just because" = Not the point.
 
-![Innovation and creativity](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Creative innovation*
 
 ## Think Bigger
 

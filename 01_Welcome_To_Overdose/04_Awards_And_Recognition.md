@@ -1,5 +1,8 @@
 # Awards & Recognition
 
+
+![Awards And Recognition](/courses/overdose-new-starter/assets/lesson-images/m1_04_awards.jpg)
+
 Talk is cheap. Anyone can claim they're the best. What matters is recognition from the industry, from partners, and from clients. Overdose has stacked up some serious credentials since 2016 — here's what we've achieved and what it means.
 
 ## Learning Objectives
@@ -39,8 +42,6 @@ This New Zealand business award recognized Overdose early in our journey as one 
 
 Our work leveraging Yotpo's platform for clients like Bart Group brands (James Lane and Sleeping Giant) earned recognition for driving customer engagement and revenue growth through reviews and user-generated content.
 
-![Business awards trophy](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Industry recognition*
 
 ## What These Awards Actually Mean
 

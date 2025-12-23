@@ -1,5 +1,8 @@
 # Making Your Mark
 
+
+![Making Your Mark](/courses/overdose-new-starter/assets/lesson-images/m6_03_your_mark.jpg)
+
 You've joined Overdose. You understand our history, culture, and direction. Now the question is: what impact will YOU make? This lesson is about moving from new starter to valued contributor to someone who shapes the company.
 
 ## Learning Objectives
@@ -43,8 +46,6 @@ You're fully operational. Time to think about broader impact. How can you make t
 
 > **The Timeline Is Flexible:** Some people move faster, some slower. The phases are guideposts, not rigid rules.
 
-![Making an impact](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Creating impact*
 
 ## Ways To Create Impact
 

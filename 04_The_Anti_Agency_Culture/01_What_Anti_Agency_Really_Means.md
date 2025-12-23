@@ -1,5 +1,8 @@
 # What Anti-Agency Really Means
 
+
+![What Anti-Agency Really Means](/courses/overdose-new-starter/assets/lesson-images/m4_01_anti_agency.jpg)
+
 "The Anti-Agency, Agency." It's our tagline, our positioning, our identity. But what does it actually mean? This isn't just marketing — it's a fundamental philosophy that shapes everything about how Overdose operates.
 
 ## Learning Objectives
@@ -38,8 +41,6 @@ To understand what we're against, you need to understand what we're rejecting.
 
 > **The OD Insight:** Traditional agencies are paid to deliver things. We're paid to deliver outcomes. That one-word difference changes everything.
 
-![Breaking conventions](https://images.unsplash.com/photo-1493612276216-ee3925520721?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Breaking the mold*
 
 ## The Anti-Agency Alternative
 

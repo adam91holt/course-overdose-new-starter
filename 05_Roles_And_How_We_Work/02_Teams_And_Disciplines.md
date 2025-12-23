@@ -1,5 +1,8 @@
 # Teams & Disciplines
 
+
+![Teams And Disciplines](/courses/overdose-new-starter/assets/lesson-images/m5_02_teams.jpg)
+
 Overdose is organized around disciplines — specialized areas of expertise that come together to deliver Complete Commerce. Understanding each discipline helps you collaborate effectively, regardless of where you sit.
 
 ## Learning Objectives
@@ -34,8 +37,6 @@ Strategy is where client engagements begin and where they're continuously guided
 - They translate client feedback — listen to their guidance
 - They're accountable for overall outcomes — help them succeed
 
-![Strategy team planning](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Strategic planning session*
 
 ## The Experience Team
 

@@ -1,5 +1,8 @@
 # The OD Story
 
+
+![The OD Story](/courses/overdose-new-starter/assets/lesson-images/m1_01_od_story.jpg)
+
 So you've joined Overdose. Nice one. Before you dive into the deep end of ecommerce madness, let's talk about where this whole thing started. Because understanding our roots isn't just corporate fluff — it's the DNA that shapes everything we do.
 
 ## Learning Objectives
@@ -20,8 +23,6 @@ So they did what any self-respecting commerce nerds would do: they launched Over
 
 That's not a typo. That's what happens when you actually solve real problems.
 
-![Startup growth concept](https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Startup growth trajectory*
 
 ## The Problem We Saw
 

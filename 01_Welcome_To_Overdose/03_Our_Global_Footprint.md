@@ -1,5 +1,8 @@
 # Our Global Footprint
 
+
+![Our Global Footprint](/courses/overdose-new-starter/assets/lesson-images/m1_03_global.jpg)
+
 From a basement in New Zealand to offices across the globe — Overdose has spread fast. But we didn't just expand for the sake of looking impressive on a map. Every office serves a strategic purpose, and our distributed model is central to how we deliver for clients.
 
 ## Learning Objectives
@@ -28,8 +31,6 @@ Let's start with the geography. Overdose operates from offices across three majo
 ### Europe
 - **Kyiv, Ukraine** — Technical excellence hub with deep development capability.
 
-![Global business network](https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Global connectivity*
 
 ## Why These Locations?
 

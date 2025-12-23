@@ -1,5 +1,8 @@
 # Client Partnership Philosophy
 
+
+![Client Partnership Philosophy](/courses/overdose-new-starter/assets/lesson-images/m3_04_partnership.jpg)
+
 Here's where we get into the soul of how Overdose approaches client relationships. It's not just about doing good work — it's about how we work together. Our philosophy shapes every interaction, every deliverable, and every outcome.
 
 ## Learning Objectives
@@ -46,8 +49,6 @@ Vendors think about the current project. Partners think about where the business
 ### We're Honest (Sometimes Brutally)
 If something isn't working, we say so. If the client's idea is bad, we explain why. If we made a mistake, we own it. Sugarcoating and telling clients what they want to hear isn't partnership — it's cowardice.
 
-![Business collaboration meeting](https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800)
-*Image source: [Unsplash](https://unsplash.com) - True partnership collaboration*
 
 ## We Care As Much As They Do
 

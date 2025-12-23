@@ -1,5 +1,8 @@
 # Platform Partnerships
 
+
+![Platform Partnerships](/courses/overdose-new-starter/assets/lesson-images/m2_03_platforms.jpg)
+
 Every ecommerce business runs on a platform. Understanding the major platforms — their strengths, weaknesses, and ideal use cases — is essential knowledge at Overdose. We're not platform-religious; we're platform-strategic.
 
 ## Learning Objectives
@@ -24,8 +27,6 @@ Before we dive into specific platforms, let's talk about how we think about tech
 
 ## Shopify Plus
 
-![Shopify ecommerce platform](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Ecommerce platform concept*
 
 ### What It Is
 Shopify Plus is Shopify's enterprise offering. It's a hosted SaaS platform that handles infrastructure, security, and updates automatically. Clients pay a monthly fee and get a fully managed environment.

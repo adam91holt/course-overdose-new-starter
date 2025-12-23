@@ -1,5 +1,8 @@
 # Who We Work With
 
+
+![Who We Work With](/courses/overdose-new-starter/assets/lesson-images/m3_01_clients.jpg)
+
 Overdose works with brands that want to grow. That sounds generic, but it's actually specific — we're not for everyone, and not everyone is for us. Understanding who our ideal clients are helps you recognize good opportunities and navigate client relationships effectively.
 
 ## Learning Objectives
@@ -41,8 +44,6 @@ Brands that sell through multiple channels — online, in-store, wholesale, mark
 - Consistent customer experience everywhere
 - Data integration and single customer view
 
-![Retail store concept](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Modern retail environment*
 
 ## The Common Thread
 

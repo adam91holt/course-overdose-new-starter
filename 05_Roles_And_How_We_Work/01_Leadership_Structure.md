@@ -1,5 +1,8 @@
 # Leadership Structure
 
+
+![Leadership Structure](/courses/overdose-new-starter/assets/lesson-images/m5_01_leadership.jpg)
+
 Understanding who leads what at Overdose helps you navigate the organization, know who to go to for different needs, and understand how decisions get made. Let's map out our leadership structure.
 
 ## Learning Objectives
@@ -44,8 +47,6 @@ Jason leads our SEO and search capabilities globally. This specialized role refl
 
 Adam leads commercial operations — how we sell, how we structure deals, and how we grow client relationships. The CCO role bridges client acquisition with client success, ensuring commercial sustainability.
 
-![Executive leadership](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Executive leadership meeting*
 
 ## Regional Leadership
 
