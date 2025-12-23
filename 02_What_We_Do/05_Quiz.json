@@ -1,0 +1,127 @@
+{
+  "title": "Module 2 Quiz: What We Do",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m2_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does 'Complete Commerce' mean at Overdose?",
+      "questionHtml": "<p>What does 'Complete Commerce' mean at Overdose?</p>",
+      "answers": [
+        {"id": "m2_q1_a", "text": "Integrated services across Strategy, UX, Technology, Marketing, SEO, and Data — all aligned to business outcomes", "textHtml": "<p>Integrated services across Strategy, UX, Technology, Marketing, SEO, and Data — all aligned to business outcomes</p>", "correct": true},
+        {"id": "m2_q1_b", "text": "A platform that handles all ecommerce functions automatically", "textHtml": "<p>A platform that handles all ecommerce functions automatically</p>", "correct": false},
+        {"id": "m2_q1_c", "text": "A guarantee that every project will be completed on time", "textHtml": "<p>A guarantee that every project will be completed on time</p>", "correct": false},
+        {"id": "m2_q1_d", "text": "A certification program for commerce professionals", "textHtml": "<p>A certification program for commerce professionals</p>", "correct": false}
+      ],
+      "feedback": "Complete Commerce refers to our integrated approach spanning six service pillars: Strategy, UX/UI & CRO, Technology, Marketing, SEO, and Data & Analytics — all working together toward client business outcomes.",
+      "feedbackHtml": "<p>Complete Commerce refers to our integrated approach spanning six service pillars: Strategy, UX/UI & CRO, Technology, Marketing, SEO, and Data & Analytics — all working together toward client business outcomes.</p>"
+    },
+    {
+      "id": "m2_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are service pillars at Overdose? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are service pillars at Overdose? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m2_q2_a", "text": "Strategy", "textHtml": "<p>Strategy</p>", "correct": true},
+        {"id": "m2_q2_b", "text": "SEO/GEO", "textHtml": "<p>SEO/GEO</p>", "correct": true},
+        {"id": "m2_q2_c", "text": "Public Relations", "textHtml": "<p>Public Relations</p>", "correct": false},
+        {"id": "m2_q2_d", "text": "Data & Analytics", "textHtml": "<p>Data & Analytics</p>", "correct": true}
+      ],
+      "feedback": "The six service pillars at Overdose are: Strategy, UX/UI & CRO, Technology & Development, Marketing & CRM, SEO/GEO, and Data & Analytics. Public Relations is not one of our core service pillars.",
+      "feedbackHtml": "<p>The six service pillars at Overdose are: Strategy, UX/UI & CRO, Technology & Development, Marketing & CRM, SEO/GEO, and Data & Analytics. Public Relations is not one of our core service pillars.</p>"
+    },
+    {
+      "id": "m2_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which ecommerce platform is best described as 'a hosted SaaS platform ideal for D2C brands that want to move fast'?",
+      "questionHtml": "<p>Which ecommerce platform is best described as 'a hosted SaaS platform ideal for D2C brands that want to move fast'?</p>",
+      "answers": [
+        {"id": "m2_q3_a", "text": "Shopify Plus", "textHtml": "<p>Shopify Plus</p>", "correct": true},
+        {"id": "m2_q3_b", "text": "Adobe Commerce", "textHtml": "<p>Adobe Commerce</p>", "correct": false},
+        {"id": "m2_q3_c", "text": "Commercetools", "textHtml": "<p>Commercetools</p>", "correct": false},
+        {"id": "m2_q3_d", "text": "BigCommerce", "textHtml": "<p>BigCommerce</p>", "correct": false}
+      ],
+      "feedback": "Shopify Plus is a hosted SaaS platform that handles infrastructure automatically, making it ideal for D2C brands that want ease of use and fast time-to-market without managing technical complexity.",
+      "feedbackHtml": "<p>Shopify Plus is a hosted SaaS platform that handles infrastructure automatically, making it ideal for D2C brands that want ease of use and fast time-to-market without managing technical complexity.</p>"
+    },
+    {
+      "id": "m2_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the Distributed Retainer Model?",
+      "questionHtml": "<p>What is the Distributed Retainer Model?</p>",
+      "answers": [
+        {"id": "m2_q4_a", "text": "A fixed monthly investment with flexible resource allocation based on business needs", "textHtml": "<p>A fixed monthly investment with flexible resource allocation based on business needs</p>", "correct": true},
+        {"id": "m2_q4_b", "text": "A project-based pricing model with fixed scope", "textHtml": "<p>A project-based pricing model with fixed scope</p>", "correct": false},
+        {"id": "m2_q4_c", "text": "An hourly billing system where clients pay for time spent", "textHtml": "<p>An hourly billing system where clients pay for time spent</p>", "correct": false},
+        {"id": "m2_q4_d", "text": "A commission-based model tied to revenue generated", "textHtml": "<p>A commission-based model tied to revenue generated</p>", "correct": false}
+      ],
+      "feedback": "The Distributed Retainer Model provides clients with predictable monthly costs while allowing flexible allocation of resources based on current business priorities — not a fixed scope.",
+      "feedbackHtml": "<p>The Distributed Retainer Model provides clients with predictable monthly costs while allowing flexible allocation of resources based on current business priorities — not a fixed scope.</p>"
+    },
+    {
+      "id": "m2_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is Overdose described as 'technology-agnostic'?",
+      "questionHtml": "<p>Why is Overdose described as 'technology-agnostic'?</p>",
+      "answers": [
+        {"id": "m2_q5_a", "text": "We recommend platforms based on what's right for the business, not what benefits us", "textHtml": "<p>We recommend platforms based on what's right for the business, not what benefits us</p>", "correct": true},
+        {"id": "m2_q5_b", "text": "We don't work with any specific platforms", "textHtml": "<p>We don't work with any specific platforms</p>", "correct": false},
+        {"id": "m2_q5_c", "text": "We only work with open-source technology", "textHtml": "<p>We only work with open-source technology</p>", "correct": false},
+        {"id": "m2_q5_d", "text": "We let clients choose any platform without providing recommendations", "textHtml": "<p>We let clients choose any platform without providing recommendations</p>", "correct": false}
+      ],
+      "feedback": "Being technology-agnostic means we don't push clients toward platforms for our benefit. We assess business requirements first and recommend the platform that genuinely fits their needs.",
+      "feedbackHtml": "<p>Being technology-agnostic means we don't push clients toward platforms for our benefit. We assess business requirements first and recommend the platform that genuinely fits their needs.</p>"
+    },
+    {
+      "id": "m2_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which platform is best suited for enterprises pursuing composable, headless architecture?",
+      "questionHtml": "<p>Which platform is best suited for enterprises pursuing composable, headless architecture?</p>",
+      "answers": [
+        {"id": "m2_q6_a", "text": "Commercetools", "textHtml": "<p>Commercetools</p>", "correct": true},
+        {"id": "m2_q6_b", "text": "Shopify Plus", "textHtml": "<p>Shopify Plus</p>", "correct": false},
+        {"id": "m2_q6_c", "text": "BigCommerce", "textHtml": "<p>BigCommerce</p>", "correct": false},
+        {"id": "m2_q6_d", "text": "Adobe Commerce", "textHtml": "<p>Adobe Commerce</p>", "correct": false}
+      ],
+      "feedback": "Commercetools is an API-first, headless platform designed for composable commerce architecture. It provides backend functionality without a frontend, allowing maximum flexibility for enterprises with strong technical teams.",
+      "feedbackHtml": "<p>Commercetools is an API-first, headless platform designed for composable commerce architecture. It provides backend functionality without a frontend, allowing maximum flexibility for enterprises with strong technical teams.</p>"
+    },
+    {
+      "id": "m2_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the main problem with traditional project-based agency models?",
+      "questionHtml": "<p>What is the main problem with traditional project-based agency models?</p>",
+      "answers": [
+        {"id": "m2_q7_a", "text": "Agencies get paid for delivery regardless of whether the project creates business results", "textHtml": "<p>Agencies get paid for delivery regardless of whether the project creates business results</p>", "correct": true},
+        {"id": "m2_q7_b", "text": "Projects take too long to complete", "textHtml": "<p>Projects take too long to complete</p>", "correct": false},
+        {"id": "m2_q7_c", "text": "Clients have too much control over the work", "textHtml": "<p>Clients have too much control over the work</p>", "correct": false},
+        {"id": "m2_q7_d", "text": "Pricing is always too expensive", "textHtml": "<p>Pricing is always too expensive</p>", "correct": false}
+      ],
+      "feedback": "The core problem with traditional models is misaligned incentives — agencies succeed when they deliver projects, not when those projects drive business results. This creates adversarial relationships rather than partnerships.",
+      "feedbackHtml": "<p>The core problem with traditional models is misaligned incentives — agencies succeed when they deliver projects, not when those projects drive business results. This creates adversarial relationships rather than partnerships.</p>"
+    },
+    {
+      "id": "m2_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which service pillar is responsible for customer journey mapping and conversion optimization?",
+      "questionHtml": "<p>Which service pillar is responsible for customer journey mapping and conversion optimization?</p>",
+      "answers": [
+        {"id": "m2_q8_a", "text": "UX/UI & CRO", "textHtml": "<p>UX/UI & CRO</p>", "correct": true},
+        {"id": "m2_q8_b", "text": "Strategy", "textHtml": "<p>Strategy</p>", "correct": false},
+        {"id": "m2_q8_c", "text": "Marketing & CRM", "textHtml": "<p>Marketing & CRM</p>", "correct": false},
+        {"id": "m2_q8_d", "text": "Data & Analytics", "textHtml": "<p>Data & Analytics</p>", "correct": false}
+      ],
+      "feedback": "The UX/UI & CRO pillar handles customer journey mapping, interface design, conversion optimization, and user testing — making experiences that work beautifully and drive measurable results.",
+      "feedbackHtml": "<p>The UX/UI & CRO pillar handles customer journey mapping, interface design, conversion optimization, and user testing — making experiences that work beautifully and drive measurable results.</p>"
+    }
+  ]
+}

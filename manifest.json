@@ -1,0 +1,291 @@
+{
+  "id": "overdose-new-starter",
+  "title": "Overdose New Starter",
+  "description": "<p>Welcome to Overdose. You've just joined the Anti-Agency, Agency — a crew of 450+ commerce professionals who break the rules, think bigger, and get sh*t done. This course will get you up to speed on who we are, what we do, and how we do it differently. No fluff. Just the real stuff you need to hit the ground running.</p>",
+  "color": "#FF4136",
+  "coverImage": "cover.jpg",
+  "modules": [
+    {
+      "id": "01_Welcome_To_Overdose",
+      "title": "Module 1: Welcome to Overdose",
+      "index": 1,
+      "lessons": [
+        {
+          "id": "01_Welcome_To_Overdose|||01_The_OD_Story",
+          "moduleId": "01_Welcome_To_Overdose",
+          "title": "The OD Story",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/01_Welcome_To_Overdose/01_The_OD_Story.md"
+        },
+        {
+          "id": "01_Welcome_To_Overdose|||02_Meet_The_Founders",
+          "moduleId": "01_Welcome_To_Overdose",
+          "title": "Meet The Founders",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/01_Welcome_To_Overdose/02_Meet_The_Founders.md"
+        },
+        {
+          "id": "01_Welcome_To_Overdose|||03_Our_Global_Footprint",
+          "moduleId": "01_Welcome_To_Overdose",
+          "title": "Our Global Footprint",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/01_Welcome_To_Overdose/03_Our_Global_Footprint.md"
+        },
+        {
+          "id": "01_Welcome_To_Overdose|||04_Awards_And_Recognition",
+          "moduleId": "01_Welcome_To_Overdose",
+          "title": "Awards & Recognition",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/01_Welcome_To_Overdose/04_Awards_And_Recognition.md"
+        },
+        {
+          "id": "01_Welcome_To_Overdose|||05_Quiz",
+          "moduleId": "01_Welcome_To_Overdose",
+          "title": "Module 1 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/01_Welcome_To_Overdose/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "02_What_We_Do",
+      "title": "Module 2: What We Do",
+      "index": 2,
+      "lessons": [
+        {
+          "id": "02_What_We_Do|||01_Complete_Commerce_Explained",
+          "moduleId": "02_What_We_Do",
+          "title": "Complete Commerce Explained",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/02_What_We_Do/01_Complete_Commerce_Explained.md"
+        },
+        {
+          "id": "02_What_We_Do|||02_Our_Service_Pillars",
+          "moduleId": "02_What_We_Do",
+          "title": "Our Service Pillars",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/02_What_We_Do/02_Our_Service_Pillars.md"
+        },
+        {
+          "id": "02_What_We_Do|||03_Platform_Partnerships",
+          "moduleId": "02_What_We_Do",
+          "title": "Platform Partnerships",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/02_What_We_Do/03_Platform_Partnerships.md"
+        },
+        {
+          "id": "02_What_We_Do|||04_The_Distributed_Retainer_Model",
+          "moduleId": "02_What_We_Do",
+          "title": "The Distributed Retainer Model",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/02_What_We_Do/04_The_Distributed_Retainer_Model.md"
+        },
+        {
+          "id": "02_What_We_Do|||05_Quiz",
+          "moduleId": "02_What_We_Do",
+          "title": "Module 2 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/02_What_We_Do/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "03_Our_Clients_And_Case_Studies",
+      "title": "Module 3: Our Clients & Case Studies",
+      "index": 3,
+      "lessons": [
+        {
+          "id": "03_Our_Clients_And_Case_Studies|||01_Who_We_Work_With",
+          "moduleId": "03_Our_Clients_And_Case_Studies",
+          "title": "Who We Work With",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/03_Our_Clients_And_Case_Studies/01_Who_We_Work_With.md"
+        },
+        {
+          "id": "03_Our_Clients_And_Case_Studies|||02_Case_Study_Spotlight",
+          "moduleId": "03_Our_Clients_And_Case_Studies",
+          "title": "Case Study Spotlight",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/03_Our_Clients_And_Case_Studies/02_Case_Study_Spotlight.md"
+        },
+        {
+          "id": "03_Our_Clients_And_Case_Studies|||03_Industries_We_Dominate",
+          "moduleId": "03_Our_Clients_And_Case_Studies",
+          "title": "Industries We Dominate",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/03_Our_Clients_And_Case_Studies/03_Industries_We_Dominate.md"
+        },
+        {
+          "id": "03_Our_Clients_And_Case_Studies|||04_Client_Partnership_Philosophy",
+          "moduleId": "03_Our_Clients_And_Case_Studies",
+          "title": "Client Partnership Philosophy",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/03_Our_Clients_And_Case_Studies/04_Client_Partnership_Philosophy.md"
+        },
+        {
+          "id": "03_Our_Clients_And_Case_Studies|||05_Quiz",
+          "moduleId": "03_Our_Clients_And_Case_Studies",
+          "title": "Module 3 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/03_Our_Clients_And_Case_Studies/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "04_The_Anti_Agency_Culture",
+      "title": "Module 4: The Anti-Agency Culture",
+      "index": 4,
+      "lessons": [
+        {
+          "id": "04_The_Anti_Agency_Culture|||01_What_Anti_Agency_Really_Means",
+          "moduleId": "04_The_Anti_Agency_Culture",
+          "title": "What Anti-Agency Really Means",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/04_The_Anti_Agency_Culture/01_What_Anti_Agency_Really_Means.md"
+        },
+        {
+          "id": "04_The_Anti_Agency_Culture|||02_Our_Core_Values",
+          "moduleId": "04_The_Anti_Agency_Culture",
+          "title": "Our Core Values",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/04_The_Anti_Agency_Culture/02_Our_Core_Values.md"
+        },
+        {
+          "id": "04_The_Anti_Agency_Culture|||03_The_OD_Way_Of_Working",
+          "moduleId": "04_The_Anti_Agency_Culture",
+          "title": "The OD Way of Working",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/04_The_Anti_Agency_Culture/03_The_OD_Way_Of_Working.md"
+        },
+        {
+          "id": "04_The_Anti_Agency_Culture|||04_Living_The_Culture",
+          "moduleId": "04_The_Anti_Agency_Culture",
+          "title": "Living The Culture",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/04_The_Anti_Agency_Culture/04_Living_The_Culture.md"
+        },
+        {
+          "id": "04_The_Anti_Agency_Culture|||05_Quiz",
+          "moduleId": "04_The_Anti_Agency_Culture",
+          "title": "Module 4 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/04_The_Anti_Agency_Culture/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "05_Roles_And_How_We_Work",
+      "title": "Module 5: Roles & How We Work",
+      "index": 5,
+      "lessons": [
+        {
+          "id": "05_Roles_And_How_We_Work|||01_Leadership_Structure",
+          "moduleId": "05_Roles_And_How_We_Work",
+          "title": "Leadership Structure",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/05_Roles_And_How_We_Work/01_Leadership_Structure.md"
+        },
+        {
+          "id": "05_Roles_And_How_We_Work|||02_Teams_And_Disciplines",
+          "moduleId": "05_Roles_And_How_We_Work",
+          "title": "Teams & Disciplines",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/05_Roles_And_How_We_Work/02_Teams_And_Disciplines.md"
+        },
+        {
+          "id": "05_Roles_And_How_We_Work|||03_Cross_Functional_Collaboration",
+          "moduleId": "05_Roles_And_How_We_Work",
+          "title": "Cross-Functional Collaboration",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/05_Roles_And_How_We_Work/03_Cross_Functional_Collaboration.md"
+        },
+        {
+          "id": "05_Roles_And_How_We_Work|||04_Tools_And_Systems",
+          "moduleId": "05_Roles_And_How_We_Work",
+          "title": "Tools & Systems",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/05_Roles_And_How_We_Work/04_Tools_And_Systems.md"
+        },
+        {
+          "id": "05_Roles_And_How_We_Work|||05_Quiz",
+          "moduleId": "05_Roles_And_How_We_Work",
+          "title": "Module 5 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/05_Roles_And_How_We_Work/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "06_Your_Future_At_Overdose",
+      "title": "Module 6: Your Future at Overdose",
+      "index": 6,
+      "lessons": [
+        {
+          "id": "06_Your_Future_At_Overdose|||01_Growth_And_Development",
+          "moduleId": "06_Your_Future_At_Overdose",
+          "title": "Growth & Development",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/overdose-new-starter/06_Your_Future_At_Overdose/01_Growth_And_Development.md"
+        },
+        {
+          "id": "06_Your_Future_At_Overdose|||02_Where_Overdose_Is_Heading",
+          "moduleId": "06_Your_Future_At_Overdose",
+          "title": "Where Overdose Is Heading",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/overdose-new-starter/06_Your_Future_At_Overdose/02_Where_Overdose_Is_Heading.md"
+        },
+        {
+          "id": "06_Your_Future_At_Overdose|||03_Making_Your_Mark",
+          "moduleId": "06_Your_Future_At_Overdose",
+          "title": "Making Your Mark",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/overdose-new-starter/06_Your_Future_At_Overdose/03_Making_Your_Mark.md"
+        },
+        {
+          "id": "06_Your_Future_At_Overdose|||04_Welcome_To_The_Family",
+          "moduleId": "06_Your_Future_At_Overdose",
+          "title": "Welcome to the Family",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/overdose-new-starter/06_Your_Future_At_Overdose/04_Welcome_To_The_Family.md"
+        },
+        {
+          "id": "06_Your_Future_At_Overdose|||05_Quiz",
+          "moduleId": "06_Your_Future_At_Overdose",
+          "title": "Module 6 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/overdose-new-starter/06_Your_Future_At_Overdose/05_Quiz.json"
+        }
+      ]
+    }
+  ]
+}

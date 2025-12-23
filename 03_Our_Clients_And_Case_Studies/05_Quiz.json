@@ -1,0 +1,127 @@
+{
+  "title": "Module 3 Quiz: Our Clients & Case Studies",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m3_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What result did Tupperware Australia achieve after working with Overdose?",
+      "questionHtml": "<p>What result did Tupperware Australia achieve after working with Overdose?</p>",
+      "answers": [
+        {"id": "m3_q1_a", "text": "Online sales increased by nearly 100% from Q1 to Q2 in under 6 months", "textHtml": "<p>Online sales increased by nearly 100% from Q1 to Q2 in under 6 months</p>", "correct": true},
+        {"id": "m3_q1_b", "text": "They opened 50 new physical stores", "textHtml": "<p>They opened 50 new physical stores</p>", "correct": false},
+        {"id": "m3_q1_c", "text": "They reduced their workforce by 30%", "textHtml": "<p>They reduced their workforce by 30%</p>", "correct": false},
+        {"id": "m3_q1_d", "text": "They launched a new product line", "textHtml": "<p>They launched a new product line</p>", "correct": false}
+      ],
+      "feedback": "In under 6 months, Tupperware Australia saw online sales increase by nearly 100% from Q1 to Q2 through their new eCommerce website built to complement their traditional party-based sales model.",
+      "feedbackHtml": "<p>In under 6 months, Tupperware Australia saw online sales increase by nearly 100% from Q1 to Q2 through their new eCommerce website built to complement their traditional party-based sales model.</p>"
+    },
+    {
+      "id": "m3_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which industries are considered Overdose's core strengths? (Select all that apply)",
+      "questionHtml": "<p>Which industries are considered Overdose's core strengths? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m3_q2_a", "text": "Fashion & Apparel", "textHtml": "<p>Fashion & Apparel</p>", "correct": true},
+        {"id": "m3_q2_b", "text": "Automotive", "textHtml": "<p>Automotive</p>", "correct": false},
+        {"id": "m3_q2_c", "text": "Footwear", "textHtml": "<p>Footwear</p>", "correct": true},
+        {"id": "m3_q2_d", "text": "Beauty & Personal Care", "textHtml": "<p>Beauty & Personal Care</p>", "correct": true}
+      ],
+      "feedback": "Overdose has deep expertise in Fashion & Apparel, Footwear, Beauty & Personal Care, Homewares & Furniture, and Outdoor & Sports. Automotive is not one of our core industry verticals.",
+      "feedbackHtml": "<p>Overdose has deep expertise in Fashion & Apparel, Footwear, Beauty & Personal Care, Homewares & Furniture, and Outdoor & Sports. Automotive is not one of our core industry verticals.</p>"
+    },
+    {
+      "id": "m3_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What distinguishes a 'partner' from a 'vendor' in Overdose's philosophy?",
+      "questionHtml": "<p>What distinguishes a 'partner' from a 'vendor' in Overdose's philosophy?</p>",
+      "answers": [
+        {"id": "m3_q3_a", "text": "Partners challenge, advise, and share accountability for business outcomes; vendors just execute instructions", "textHtml": "<p>Partners challenge, advise, and share accountability for business outcomes; vendors just execute instructions</p>", "correct": true},
+        {"id": "m3_q3_b", "text": "Partners charge more money than vendors", "textHtml": "<p>Partners charge more money than vendors</p>", "correct": false},
+        {"id": "m3_q3_c", "text": "Partners sign longer contracts than vendors", "textHtml": "<p>Partners sign longer contracts than vendors</p>", "correct": false},
+        {"id": "m3_q3_d", "text": "Partners have more employees than vendors", "textHtml": "<p>Partners have more employees than vendors</p>", "correct": false}
+      ],
+      "feedback": "At Overdose, being a partner means challenging briefs, sharing risk, thinking long-term, and being accountable for business outcomes — not just executing what we're told.",
+      "feedbackHtml": "<p>At Overdose, being a partner means challenging briefs, sharing risk, thinking long-term, and being accountable for business outcomes — not just executing what we're told.</p>"
+    },
+    {
+      "id": "m3_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What approach did Overdose take with SABA's commerce architecture?",
+      "questionHtml": "<p>What approach did Overdose take with SABA's commerce architecture?</p>",
+      "answers": [
+        {"id": "m3_q4_a", "text": "Composable commerce with best-of-breed tools including Commercetools, Algolia, Klaviyo, Omneo, and Comestri", "textHtml": "<p>Composable commerce with best-of-breed tools including Commercetools, Algolia, Klaviyo, Omneo, and Comestri</p>", "correct": true},
+        {"id": "m3_q4_b", "text": "A simple Shopify store with minimal integrations", "textHtml": "<p>A simple Shopify store with minimal integrations</p>", "correct": false},
+        {"id": "m3_q4_c", "text": "An in-house custom-built platform", "textHtml": "<p>An in-house custom-built platform</p>", "correct": false},
+        {"id": "m3_q4_d", "text": "WordPress with WooCommerce", "textHtml": "<p>WordPress with WooCommerce</p>", "correct": false}
+      ],
+      "feedback": "SABA embraced composable commerce with a best-of-breed approach: Commercetools for headless commerce, Algolia for search, Klaviyo for email marketing, Omneo for loyalty, and Comestri for product information management.",
+      "feedbackHtml": "<p>SABA embraced composable commerce with a best-of-breed approach: Commercetools for headless commerce, Algolia for search, Klaviyo for email marketing, Omneo for loyalty, and Comestri for product information management.</p>"
+    },
+    {
+      "id": "m3_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the #1 reason for returns in the footwear industry?",
+      "questionHtml": "<p>What is the #1 reason for returns in the footwear industry?</p>",
+      "answers": [
+        {"id": "m3_q5_a", "text": "Size and fit issues", "textHtml": "<p>Size and fit issues</p>", "correct": true},
+        {"id": "m3_q5_b", "text": "Wrong color delivered", "textHtml": "<p>Wrong color delivered</p>", "correct": false},
+        {"id": "m3_q5_c", "text": "Product defects", "textHtml": "<p>Product defects</p>", "correct": false},
+        {"id": "m3_q5_d", "text": "Customer changed their mind", "textHtml": "<p>Customer changed their mind</p>", "correct": false}
+      ],
+      "feedback": "Size and fit is the #1 reason for returns in footwear. Shoe sizes vary wildly between brands, styles, and even individual lasts, leading to return rates that can exceed 30-40%.",
+      "feedbackHtml": "<p>Size and fit is the #1 reason for returns in footwear. Shoe sizes vary wildly between brands, styles, and even individual lasts, leading to return rates that can exceed 30-40%.</p>"
+    },
+    {
+      "id": "m3_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What did FRANKIE4 say about their partnership with Overdose?",
+      "questionHtml": "<p>What did FRANKIE4 say about their partnership with Overdose?</p>",
+      "answers": [
+        {"id": "m3_q6_a", "text": "\"Game-changing not only from a performance perspective but also operationally\"", "textHtml": "<p>\"Game-changing not only from a performance perspective but also operationally\"</p>", "correct": true},
+        {"id": "m3_q6_b", "text": "\"The cheapest agency we've ever worked with\"", "textHtml": "<p>\"The cheapest agency we've ever worked with\"</p>", "correct": false},
+        {"id": "m3_q6_c", "text": "\"Good enough for our needs\"", "textHtml": "<p>\"Good enough for our needs\"</p>", "correct": false},
+        {"id": "m3_q6_d", "text": "\"Fast delivery on all projects\"", "textHtml": "<p>\"Fast delivery on all projects\"</p>", "correct": false}
+      ],
+      "feedback": "FRANKIE4 described their partnership with Overdose as \"game-changing not only from a performance perspective but also operationally\" — highlighting the Complete Commerce impact across marketing and operations.",
+      "feedbackHtml": "<p>FRANKIE4 described their partnership with Overdose as \"game-changing not only from a performance perspective but also operationally\" — highlighting the Complete Commerce impact across marketing and operations.</p>"
+    },
+    {
+      "id": "m3_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which of the following is NOT a characteristic of ideal Overdose clients?",
+      "questionHtml": "<p>Which of the following is NOT a characteristic of ideal Overdose clients?</p>",
+      "answers": [
+        {"id": "m3_q7_a", "text": "Looking for the cheapest possible option", "textHtml": "<p>Looking for the cheapest possible option</p>", "correct": true},
+        {"id": "m3_q7_b", "text": "Ambition to grow and transform", "textHtml": "<p>Ambition to grow and transform</p>", "correct": false},
+        {"id": "m3_q7_c", "text": "Investment mindset", "textHtml": "<p>Investment mindset</p>", "correct": false},
+        {"id": "m3_q7_d", "text": "Partnership orientation", "textHtml": "<p>Partnership orientation</p>", "correct": false}
+      ],
+      "feedback": "Clients looking for the cheapest option aren't a good fit for Overdose. Our ideal clients have ambition, an investment mindset, partnership orientation, and complex challenges that require expertise.",
+      "feedbackHtml": "<p>Clients looking for the cheapest option aren't a good fit for Overdose. Our ideal clients have ambition, an investment mindset, partnership orientation, and complex challenges that require expertise.</p>"
+    },
+    {
+      "id": "m3_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does 'consumer empathy' mean in Overdose's partnership philosophy?",
+      "questionHtml": "<p>What does 'consumer empathy' mean in Overdose's partnership philosophy?</p>",
+      "answers": [
+        {"id": "m3_q8_a", "text": "Understanding and advocating for our clients' customers as real people with real needs", "textHtml": "<p>Understanding and advocating for our clients' customers as real people with real needs</p>", "correct": true},
+        {"id": "m3_q8_b", "text": "Giving customers discounts on products", "textHtml": "<p>Giving customers discounts on products</p>", "correct": false},
+        {"id": "m3_q8_c", "text": "Only working with consumer-facing brands", "textHtml": "<p>Only working with consumer-facing brands</p>", "correct": false},
+        {"id": "m3_q8_d", "text": "Responding quickly to customer service inquiries", "textHtml": "<p>Responding quickly to customer service inquiries</p>", "correct": false}
+      ],
+      "feedback": "Consumer empathy means understanding that our clients' customers are real people with real needs, and advocating for their experience even when it creates short-term challenges for the business.",
+      "feedbackHtml": "<p>Consumer empathy means understanding that our clients' customers are real people with real needs, and advocating for their experience even when it creates short-term challenges for the business.</p>"
+    }
+  ]
+}

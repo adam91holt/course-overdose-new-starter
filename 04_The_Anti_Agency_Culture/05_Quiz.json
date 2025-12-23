@@ -1,0 +1,127 @@
+{
+  "title": "Module 4 Quiz: The Anti-Agency Culture",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m4_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Overdose's core values statement?",
+      "questionHtml": "<p>What is Overdose's core values statement?</p>",
+      "answers": [
+        {"id": "m4_q1_a", "text": "Break the rules. Think bigger. Get sh*t done.", "textHtml": "<p>Break the rules. Think bigger. Get sh*t done.</p>", "correct": true},
+        {"id": "m4_q1_b", "text": "Deliver on time. Stay on budget. Keep clients happy.", "textHtml": "<p>Deliver on time. Stay on budget. Keep clients happy.</p>", "correct": false},
+        {"id": "m4_q1_c", "text": "Work hard. Play hard. Win big.", "textHtml": "<p>Work hard. Play hard. Win big.</p>", "correct": false},
+        {"id": "m4_q1_d", "text": "Quality first. Speed second. Profit third.", "textHtml": "<p>Quality first. Speed second. Profit third.</p>", "correct": false}
+      ],
+      "feedback": "Overdose's core values are captured in the phrase 'Break the rules. Think bigger. Get sh*t done.' — challenging convention, aiming for transformation, and executing relentlessly.",
+      "feedbackHtml": "<p>Overdose's core values are captured in the phrase 'Break the rules. Think bigger. Get sh*t done.' — challenging convention, aiming for transformation, and executing relentlessly.</p>"
+    },
+    {
+      "id": "m4_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the key difference between the traditional agency model and Overdose's Anti-Agency approach?",
+      "questionHtml": "<p>What is the key difference between the traditional agency model and Overdose's Anti-Agency approach?</p>",
+      "answers": [
+        {"id": "m4_q2_a", "text": "Traditional agencies optimize for delivery; we optimize for business outcomes", "textHtml": "<p>Traditional agencies optimize for delivery; we optimize for business outcomes</p>", "correct": true},
+        {"id": "m4_q2_b", "text": "Traditional agencies charge less than we do", "textHtml": "<p>Traditional agencies charge less than we do</p>", "correct": false},
+        {"id": "m4_q2_c", "text": "Traditional agencies use older technology", "textHtml": "<p>Traditional agencies use older technology</p>", "correct": false},
+        {"id": "m4_q2_d", "text": "Traditional agencies have larger teams", "textHtml": "<p>Traditional agencies have larger teams</p>", "correct": false}
+      ],
+      "feedback": "The core difference is that traditional agencies measure success by project delivery ('on time, on budget'), while we measure success by actual business outcomes and results for clients.",
+      "feedbackHtml": "<p>The core difference is that traditional agencies measure success by project delivery ('on time, on budget'), while we measure success by actual business outcomes and results for clients.</p>"
+    },
+    {
+      "id": "m4_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "What does 'Break the rules' mean at Overdose? (Select all that apply)",
+      "questionHtml": "<p>What does 'Break the rules' mean at Overdose? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m4_q3_a", "text": "Questioning industry conventions that don't serve clients", "textHtml": "<p>Questioning industry conventions that don't serve clients</p>", "correct": true},
+        {"id": "m4_q3_b", "text": "Breaking legal and ethical guidelines", "textHtml": "<p>Breaking legal and ethical guidelines</p>", "correct": false},
+        {"id": "m4_q3_c", "text": "Taking smart risks instead of playing it safe", "textHtml": "<p>Taking smart risks instead of playing it safe</p>", "correct": true},
+        {"id": "m4_q3_d", "text": "Trying new approaches that might produce better results", "textHtml": "<p>Trying new approaches that might produce better results</p>", "correct": true}
+      ],
+      "feedback": "'Break the rules' means challenging industry norms, taking smart risks, and trying new approaches — NOT breaking legal, ethical, or contractual rules. It's about purposeful innovation, not chaos.",
+      "feedbackHtml": "<p>'Break the rules' means challenging industry norms, taking smart risks, and trying new approaches — NOT breaking legal, ethical, or contractual rules. It's about purposeful innovation, not chaos.</p>"
+    },
+    {
+      "id": "m4_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What combination of traits defines successful ODers?",
+      "questionHtml": "<p>What combination of traits defines successful ODers?</p>",
+      "answers": [
+        {"id": "m4_q4_a", "text": "Low ego and high standards", "textHtml": "<p>Low ego and high standards</p>", "correct": true},
+        {"id": "m4_q4_b", "text": "High ego and low expectations", "textHtml": "<p>High ego and low expectations</p>", "correct": false},
+        {"id": "m4_q4_c", "text": "Strong opinions and reluctance to compromise", "textHtml": "<p>Strong opinions and reluctance to compromise</p>", "correct": false},
+        {"id": "m4_q4_d", "text": "Technical skills and no interest in soft skills", "textHtml": "<p>Technical skills and no interest in soft skills</p>", "correct": false}
+      ],
+      "feedback": "Successful ODers combine low ego (accepting feedback, admitting mistakes, helping others) with high standards (not accepting mediocre work, pushing for better, holding themselves accountable).",
+      "feedbackHtml": "<p>Successful ODers combine low ego (accepting feedback, admitting mistakes, helping others) with high standards (not accepting mediocre work, pushing for better, holding themselves accountable).</p>"
+    },
+    {
+      "id": "m4_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the Anti-Agency approach to meetings?",
+      "questionHtml": "<p>What is the Anti-Agency approach to meetings?</p>",
+      "answers": [
+        {"id": "m4_q5_a", "text": "Every meeting should have a clear purpose and end with actions", "textHtml": "<p>Every meeting should have a clear purpose and end with actions</p>", "correct": true},
+        {"id": "m4_q5_b", "text": "The more meetings the better for collaboration", "textHtml": "<p>The more meetings the better for collaboration</p>", "correct": false},
+        {"id": "m4_q5_c", "text": "Meetings should always be at least an hour long", "textHtml": "<p>Meetings should always be at least an hour long</p>", "correct": false},
+        {"id": "m4_q5_d", "text": "Everyone in the company should be invited to important meetings", "textHtml": "<p>Everyone in the company should be invited to important meetings</p>", "correct": false}
+      ],
+      "feedback": "Meetings at OD should have a clear purpose, include only necessary people, require preparation, and end with clear actions and decisions. Time is precious.",
+      "feedbackHtml": "<p>Meetings at OD should have a clear purpose, include only necessary people, require preparation, and end with clear actions and decisions. Time is precious.</p>"
+    },
+    {
+      "id": "m4_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "When you make a mistake at Overdose, what should you do?",
+      "questionHtml": "<p>When you make a mistake at Overdose, what should you do?</p>",
+      "answers": [
+        {"id": "m4_q6_a", "text": "Own it immediately, explain what happened without excuses, fix it, and share what you learned", "textHtml": "<p>Own it immediately, explain what happened without excuses, fix it, and share what you learned</p>", "correct": true},
+        {"id": "m4_q6_b", "text": "Hide it and hope no one notices", "textHtml": "<p>Hide it and hope no one notices</p>", "correct": false},
+        {"id": "m4_q6_c", "text": "Blame the circumstances or other people", "textHtml": "<p>Blame the circumstances or other people</p>", "correct": false},
+        {"id": "m4_q6_d", "text": "Wait until someone finds out before addressing it", "textHtml": "<p>Wait until someone finds out before addressing it</p>", "correct": false}
+      ],
+      "feedback": "At OD, we handle mistakes by owning them immediately, explaining what happened without excuses, fixing the issue or proposing how to fix it, and sharing what we learned. Accountability builds trust.",
+      "feedbackHtml": "<p>At OD, we handle mistakes by owning them immediately, explaining what happened without excuses, fixing the issue or proposing how to fix it, and sharing what we learned. Accountability builds trust.</p>"
+    },
+    {
+      "id": "m4_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does 'ownership mentality' mean at Overdose?",
+      "questionHtml": "<p>What does 'ownership mentality' mean at Overdose?</p>",
+      "answers": [
+        {"id": "m4_q7_a", "text": "Seeing work through to outcomes, solving problems proactively, and accepting accountability", "textHtml": "<p>Seeing work through to outcomes, solving problems proactively, and accepting accountability</p>", "correct": true},
+        {"id": "m4_q7_b", "text": "Owning company shares", "textHtml": "<p>Owning company shares</p>", "correct": false},
+        {"id": "m4_q7_c", "text": "Doing everything yourself without asking for help", "textHtml": "<p>Doing everything yourself without asking for help</p>", "correct": false},
+        {"id": "m4_q7_d", "text": "Taking credit for all team accomplishments", "textHtml": "<p>Taking credit for all team accomplishments</p>", "correct": false}
+      ],
+      "feedback": "Ownership mentality means caring about outcomes (not just your deliverable), solving problems instead of just flagging them, taking initiative, and accepting accountability. It doesn't mean doing everything alone or taking others' credit.",
+      "feedbackHtml": "<p>Ownership mentality means caring about outcomes (not just your deliverable), solving problems instead of just flagging them, taking initiative, and accepting accountability. It doesn't mean doing everything alone or taking others' credit.</p>"
+    },
+    {
+      "id": "m4_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the recommended approach for your first 30 days at Overdose?",
+      "questionHtml": "<p>What is the recommended approach for your first 30 days at Overdose?</p>",
+      "answers": [
+        {"id": "m4_q8_a", "text": "Absorb — watch, listen, learn, ask questions, focus on understanding", "textHtml": "<p>Absorb — watch, listen, learn, ask questions, focus on understanding</p>", "correct": true},
+        {"id": "m4_q8_b", "text": "Try to change everything immediately", "textHtml": "<p>Try to change everything immediately</p>", "correct": false},
+        {"id": "m4_q8_c", "text": "Stay quiet and don't ask any questions", "textHtml": "<p>Stay quiet and don't ask any questions</p>", "correct": false},
+        {"id": "m4_q8_d", "text": "Focus only on your immediate tasks without building relationships", "textHtml": "<p>Focus only on your immediate tasks without building relationships</p>", "correct": false}
+      ],
+      "feedback": "In your first 30 days, the focus should be on absorbing — watching, listening, learning, asking lots of questions, understanding how things work, and building relationships with immediate teammates. Earn trust before trying to influence.",
+      "feedbackHtml": "<p>In your first 30 days, the focus should be on absorbing — watching, listening, learning, asking lots of questions, understanding how things work, and building relationships with immediate teammates. Earn trust before trying to influence.</p>"
+    }
+  ]
+}

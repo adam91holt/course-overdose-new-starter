@@ -1,0 +1,127 @@
+{
+  "title": "Module 6 Quiz: Your Future at Overdose",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m6_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the recommended focus during your first 30 days at Overdose?",
+      "questionHtml": "<p>What is the recommended focus during your first 30 days at Overdose?</p>",
+      "answers": [
+        {"id": "m6_q1_a", "text": "Learning mode — absorb how things work, build relationships, ask questions", "textHtml": "<p>Learning mode — absorb how things work, build relationships, ask questions</p>", "correct": true},
+        {"id": "m6_q1_b", "text": "Immediately propose major changes to processes", "textHtml": "<p>Immediately propose major changes to processes</p>", "correct": false},
+        {"id": "m6_q1_c", "text": "Take on leadership responsibilities", "textHtml": "<p>Take on leadership responsibilities</p>", "correct": false},
+        {"id": "m6_q1_d", "text": "Work independently without asking questions", "textHtml": "<p>Work independently without asking questions</p>", "correct": false}
+      ],
+      "feedback": "Your first 30 days should focus on learning mode — understanding how things work, building relationships with your team, learning tools and processes, and asking lots of questions. Learning IS your contribution during this phase.",
+      "feedbackHtml": "<p>Your first 30 days should focus on learning mode — understanding how things work, building relationships with your team, learning tools and processes, and asking lots of questions. Learning IS your contribution during this phase.</p>"
+    },
+    {
+      "id": "m6_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are ways to create impact at Overdose? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are ways to create impact at Overdose? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m6_q2_a", "text": "Craft excellence — becoming known for exceptional quality in your domain", "textHtml": "<p>Craft excellence — becoming known for exceptional quality in your domain</p>", "correct": true},
+        {"id": "m6_q2_b", "text": "Taking credit for other people's work", "textHtml": "<p>Taking credit for other people's work</p>", "correct": false},
+        {"id": "m6_q2_c", "text": "Process improvement — identifying inefficiencies and fixing them", "textHtml": "<p>Process improvement — identifying inefficiencies and fixing them</p>", "correct": true},
+        {"id": "m6_q2_d", "text": "Mentorship — helping others grow", "textHtml": "<p>Mentorship — helping others grow</p>", "correct": true}
+      ],
+      "feedback": "Impact at Overdose comes through craft excellence, client impact, process improvement, culture contribution, innovation, and mentorship. Taking credit for others' work is explicitly NOT a path to impact — it damages trust and reputation.",
+      "feedbackHtml": "<p>Impact at Overdose comes through craft excellence, client impact, process improvement, culture contribution, innovation, and mentorship. Taking credit for others' work is explicitly NOT a path to impact — it damages trust and reputation.</p>"
+    },
+    {
+      "id": "m6_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Overdose's philosophy on career development?",
+      "questionHtml": "<p>What is Overdose's philosophy on career development?</p>",
+      "answers": [
+        {"id": "m6_q3_a", "text": "You own your development, but the company provides support through managers, mentors, and opportunities", "textHtml": "<p>You own your development, but the company provides support through managers, mentors, and opportunities</p>", "correct": true},
+        {"id": "m6_q3_b", "text": "The company decides your career path for you", "textHtml": "<p>The company decides your career path for you</p>", "correct": false},
+        {"id": "m6_q3_c", "text": "Career development is entirely your own responsibility with no company support", "textHtml": "<p>Career development is entirely your own responsibility with no company support</p>", "correct": false},
+        {"id": "m6_q3_d", "text": "Only managers can develop professionally", "textHtml": "<p>Only managers can develop professionally</p>", "correct": false}
+      ],
+      "feedback": "Career development at Overdose is a partnership. You own your development (bringing curiosity and effort), while the company provides support through manager conversations, learning resources, mentorship, and growth opportunities.",
+      "feedbackHtml": "<p>Career development at Overdose is a partnership. You own your development (bringing curiosity and effort), while the company provides support through manager conversations, learning resources, mentorship, and growth opportunities.</p>"
+    },
+    {
+      "id": "m6_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which industry trends are creating growth opportunities for Overdose?",
+      "questionHtml": "<p>Which industry trends are creating growth opportunities for Overdose?</p>",
+      "answers": [
+        {"id": "m6_q4_a", "text": "Commerce becoming omnichannel, technology fragmenting, AI transforming marketing, and talent shortages", "textHtml": "<p>Commerce becoming omnichannel, technology fragmenting, AI transforming marketing, and talent shortages</p>", "correct": true},
+        {"id": "m6_q4_b", "text": "Ecommerce is declining in favor of physical retail", "textHtml": "<p>Ecommerce is declining in favor of physical retail</p>", "correct": false},
+        {"id": "m6_q4_c", "text": "Companies are building all capabilities in-house", "textHtml": "<p>Companies are building all capabilities in-house</p>", "correct": false},
+        {"id": "m6_q4_d", "text": "All commerce platforms are becoming identical", "textHtml": "<p>All commerce platforms are becoming identical</p>", "correct": false}
+      ],
+      "feedback": "Key trends creating opportunities include: commerce becoming omnichanne, technology fragmenting (best-of-breed approach), data privacy changes, AI transforming what's possible, and talent shortages making agency expertise more valuable.",
+      "feedbackHtml": "<p>Key trends creating opportunities include: commerce becoming omnichannel, technology fragmenting (best-of-breed approach), data privacy changes, AI transforming what's possible, and talent shortages making agency expertise more valuable.</p>"
+    },
+    {
+      "id": "m6_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the right approach to balancing individual ambition with team success?",
+      "questionHtml": "<p>What is the right approach to balancing individual ambition with team success?</p>",
+      "answers": [
+        {"id": "m6_q5_a", "text": "Celebrate team wins genuinely, support colleagues, share knowledge freely, and seek wins that benefit both you and the team", "textHtml": "<p>Celebrate team wins genuinely, support colleagues, share knowledge freely, and seek wins that benefit both you and the team</p>", "correct": true},
+        {"id": "m6_q5_b", "text": "Always prioritize your personal visibility over team outcomes", "textHtml": "<p>Always prioritize your personal visibility over team outcomes</p>", "correct": false},
+        {"id": "m6_q5_c", "text": "Hoard knowledge to maintain personal advantage", "textHtml": "<p>Hoard knowledge to maintain personal advantage</p>", "correct": false},
+        {"id": "m6_q5_d", "text": "Take credit for team accomplishments as your own", "textHtml": "<p>Take credit for team accomplishments as your own</p>", "correct": false}
+      ],
+      "feedback": "The right approach is to celebrate team wins, support colleagues, share knowledge freely, and seek wins that benefit both you and the team. Sustainable career success comes from being genuinely valuable to teams and clients.",
+      "feedbackHtml": "<p>The right approach is to celebrate team wins, support colleagues, share knowledge freely, and seek wins that benefit both you and the team. Sustainable career success comes from being genuinely valuable to teams and clients.</p>"
+    },
+    {
+      "id": "m6_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does Overdose expect from you as a new employee?",
+      "questionHtml": "<p>What does Overdose expect from you as a new employee?</p>",
+      "answers": [
+        {"id": "m6_q6_a", "text": "Bring your best effort, stay curious, be kind, speak up, deliver results, and care", "textHtml": "<p>Bring your best effort, stay curious, be kind, speak up, deliver results, and care</p>", "correct": true},
+        {"id": "m6_q6_b", "text": "Work yourself into exhaustion to prove your worth", "textHtml": "<p>Work yourself into exhaustion to prove your worth</p>", "correct": false},
+        {"id": "m6_q6_c", "text": "Stay quiet and follow orders without questioning", "textHtml": "<p>Stay quiet and follow orders without questioning</p>", "correct": false},
+        {"id": "m6_q6_d", "text": "Treat work as your entire identity", "textHtml": "<p>Treat work as your entire identity</p>", "correct": false}
+      ],
+      "feedback": "Overdose expects you to bring your best (not perfection), stay curious, be kind, speak up when you have ideas or see problems, deliver on commitments, and care about your work, clients, colleagues, and the company.",
+      "feedbackHtml": "<p>Overdose expects you to bring your best (not perfection), stay curious, be kind, speak up when you have ideas or see problems, deliver on commitments, and care about your work, clients, colleagues, and the company.</p>"
+    },
+    {
+      "id": "m6_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What are the two main career tracks at Overdose?",
+      "questionHtml": "<p>What are the two main career tracks at Overdose?</p>",
+      "answers": [
+        {"id": "m6_q7_a", "text": "Individual Contributor track (deep expertise) and Management track (leading people)", "textHtml": "<p>Individual Contributor track (deep expertise) and Management track (leading people)</p>", "correct": true},
+        {"id": "m6_q7_b", "text": "Technical track and Non-technical track", "textHtml": "<p>Technical track and Non-technical track</p>", "correct": false},
+        {"id": "m6_q7_c", "text": "Client-facing track and Internal track", "textHtml": "<p>Client-facing track and Internal track</p>", "correct": false},
+        {"id": "m6_q7_d", "text": "Junior track and Senior track", "textHtml": "<p>Junior track and Senior track</p>", "correct": false}
+      ],
+      "feedback": "The two main career tracks are Individual Contributor (going deep on craft, becoming a recognized expert without managing people) and Management (leading people, building teams, driving organizational outcomes). Neither is 'better' — what matters is finding the path that fits your strengths.",
+      "feedbackHtml": "<p>The two main career tracks are Individual Contributor (going deep on craft, becoming a recognized expert without managing people) and Management (leading people, building teams, driving organizational outcomes). Neither is 'better' — what matters is finding the path that fits your strengths.</p>"
+    },
+    {
+      "id": "m6_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How should you build visibility for your contributions without crossing into self-promotion?",
+      "questionHtml": "<p>How should you build visibility for your contributions without crossing into self-promotion?</p>",
+      "answers": [
+        {"id": "m6_q8_a", "text": "Document your work, share wins and learnings in appropriate channels, contribute in meetings, and give credit to collaborators", "textHtml": "<p>Document your work, share wins and learnings in appropriate channels, contribute in meetings, and give credit to collaborators</p>", "correct": true},
+        {"id": "m6_q8_b", "text": "Constantly talk about your accomplishments in every meeting", "textHtml": "<p>Constantly talk about your accomplishments in every meeting</p>", "correct": false},
+        {"id": "m6_q8_c", "text": "Send emails to executives about every task you complete", "textHtml": "<p>Send emails to executives about every task you complete</p>", "correct": false},
+        {"id": "m6_q8_d", "text": "Never mention your work and hope others notice", "textHtml": "<p>Never mention your work and hope others notice</p>", "correct": false}
+      ],
+      "feedback": "Build visibility by documenting your work, sharing proactively in appropriate channels, contributing in meetings, helping others succeed, and accepting recognition gracefully while giving credit to collaborators. Focus on the work, not yourself.",
+      "feedbackHtml": "<p>Build visibility by documenting your work, sharing proactively in appropriate channels, contributing in meetings, helping others succeed, and accepting recognition gracefully while giving credit to collaborators. Focus on the work, not yourself.</p>"
+    }
+  ]
+}

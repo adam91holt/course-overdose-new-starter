@@ -1,0 +1,127 @@
+{
+  "title": "Module 1 Quiz: Welcome to Overdose",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m1_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In what year was Overdose founded?",
+      "questionHtml": "<p>In what year was Overdose founded?</p>",
+      "answers": [
+        {"id": "m1_q1_a", "text": "2016", "textHtml": "<p>2016</p>", "correct": true},
+        {"id": "m1_q1_b", "text": "2012", "textHtml": "<p>2012</p>", "correct": false},
+        {"id": "m1_q1_c", "text": "2018", "textHtml": "<p>2018</p>", "correct": false},
+        {"id": "m1_q1_d", "text": "2014", "textHtml": "<p>2014</p>", "correct": false}
+      ],
+      "feedback": "Overdose was founded in 2016 by Ryan Delaney and Todd Welling. They first met in 2012, but the company itself launched in early 2016.",
+      "feedbackHtml": "<p>Overdose was founded in 2016 by Ryan Delaney and Todd Welling. They first met in 2012, but the company itself launched in early 2016.</p>"
+    },
+    {
+      "id": "m1_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Who are the two co-founders of Overdose?",
+      "questionHtml": "<p>Who are the two co-founders of Overdose?</p>",
+      "answers": [
+        {"id": "m1_q2_a", "text": "Ryan Delaney and Todd Welling", "textHtml": "<p>Ryan Delaney and Todd Welling</p>", "correct": true},
+        {"id": "m1_q2_b", "text": "Paul Pritchard and Laura Jackson", "textHtml": "<p>Paul Pritchard and Laura Jackson</p>", "correct": false},
+        {"id": "m1_q2_c", "text": "Ryan Delaney and Paul Pritchard", "textHtml": "<p>Ryan Delaney and Paul Pritchard</p>", "correct": false},
+        {"id": "m1_q2_d", "text": "Todd Welling and Jason Mun", "textHtml": "<p>Todd Welling and Jason Mun</p>", "correct": false}
+      ],
+      "feedback": "Ryan Delaney and Todd Welling founded Overdose in 2016. Ryan serves as Group Chief Experience Officer and Todd as Group Chief Strategy Officer.",
+      "feedbackHtml": "<p>Ryan Delaney and Todd Welling founded Overdose in 2016. Ryan serves as Group Chief Experience Officer and Todd as Group Chief Strategy Officer.</p>"
+    },
+    {
+      "id": "m1_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does Overdose mean when it calls itself the 'Anti-Agency, Agency'?",
+      "questionHtml": "<p>What does Overdose mean when it calls itself the 'Anti-Agency, Agency'?</p>",
+      "answers": [
+        {"id": "m1_q3_a", "text": "We reject the traditional agency model where success is measured by project delivery rather than business outcomes", "textHtml": "<p>We reject the traditional agency model where success is measured by project delivery rather than business outcomes</p>", "correct": true},
+        {"id": "m1_q3_b", "text": "We don't work with any other agencies", "textHtml": "<p>We don't work with any other agencies</p>", "correct": false},
+        {"id": "m1_q3_c", "text": "We're not actually an agency at all", "textHtml": "<p>We're not actually an agency at all</p>", "correct": false},
+        {"id": "m1_q3_d", "text": "We only work with anti-establishment brands", "textHtml": "<p>We only work with anti-establishment brands</p>", "correct": false}
+      ],
+      "feedback": "The Anti-Agency positioning reflects our rejection of the traditional model where agencies get paid for delivery regardless of results. Instead, we focus on producing business outcomes and tie our success to client success.",
+      "feedbackHtml": "<p>The Anti-Agency positioning reflects our rejection of the traditional model where agencies get paid for delivery regardless of results. Instead, we focus on producing business outcomes and tie our success to client success.</p>"
+    },
+    {
+      "id": "m1_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are Overdose office locations? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are Overdose office locations? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m1_q4_a", "text": "Auckland, New Zealand", "textHtml": "<p>Auckland, New Zealand</p>", "correct": true},
+        {"id": "m1_q4_b", "text": "Sydney, Australia", "textHtml": "<p>Sydney, Australia</p>", "correct": true},
+        {"id": "m1_q4_c", "text": "London, United Kingdom", "textHtml": "<p>London, United Kingdom</p>", "correct": false},
+        {"id": "m1_q4_d", "text": "Kyiv, Ukraine", "textHtml": "<p>Kyiv, Ukraine</p>", "correct": true}
+      ],
+      "feedback": "Overdose has offices in Auckland (NZ), Sydney/Melbourne/Brisbane (Australia), Singapore, Seattle and New York (USA), and Kyiv (Ukraine). We don't currently have a London office.",
+      "feedbackHtml": "<p>Overdose has offices in Auckland (NZ), Sydney/Melbourne/Brisbane (Australia), Singapore, Seattle and New York (USA), and Kyiv (Ukraine). We don't currently have a London office.</p>"
+    },
+    {
+      "id": "m1_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In their first year of operation, what was Overdose's approximate revenue?",
+      "questionHtml": "<p>In their first year of operation, what was Overdose's approximate revenue?</p>",
+      "answers": [
+        {"id": "m1_q5_a", "text": "$500,000", "textHtml": "<p>$500,000</p>", "correct": true},
+        {"id": "m1_q5_b", "text": "$8 million", "textHtml": "<p>$8 million</p>", "correct": false},
+        {"id": "m1_q5_c", "text": "$50,000", "textHtml": "<p>$50,000</p>", "correct": false},
+        {"id": "m1_q5_d", "text": "$2 million", "textHtml": "<p>$2 million</p>", "correct": false}
+      ],
+      "feedback": "Overdose generated $500k in revenue in Year One while the founders worked hands-on from a client's basement. By Year Two, revenue had exploded to $8 million.",
+      "feedbackHtml": "<p>Overdose generated $500k in revenue in Year One while the founders worked hands-on from a client's basement. By Year Two, revenue had exploded to $8 million.</p>"
+    },
+    {
+      "id": "m1_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Ryan Delaney's current role at Overdose?",
+      "questionHtml": "<p>What is Ryan Delaney's current role at Overdose?</p>",
+      "answers": [
+        {"id": "m1_q6_a", "text": "Group Chief Experience Officer", "textHtml": "<p>Group Chief Experience Officer</p>", "correct": true},
+        {"id": "m1_q6_b", "text": "Group Chief Executive Officer", "textHtml": "<p>Group Chief Executive Officer</p>", "correct": false},
+        {"id": "m1_q6_c", "text": "Group Chief Strategy Officer", "textHtml": "<p>Group Chief Strategy Officer</p>", "correct": false},
+        {"id": "m1_q6_d", "text": "Group Chief Technical Officer", "textHtml": "<p>Group Chief Technical Officer</p>", "correct": false}
+      ],
+      "feedback": "Ryan Delaney serves as Group Chief Experience Officer, leading our approach to UX, UI, and the overall customer journey. Todd Welling is the Group Chief Strategy Officer.",
+      "feedbackHtml": "<p>Ryan Delaney serves as Group Chief Experience Officer, leading our approach to UX, UI, and the overall customer journey. Todd Welling is the Group Chief Strategy Officer.</p>"
+    },
+    {
+      "id": "m1_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which major award did Overdose receive from Deloitte?",
+      "questionHtml": "<p>Which major award did Overdose receive from Deloitte?</p>",
+      "answers": [
+        {"id": "m1_q7_a", "text": "Fastest Growing Agency in the Technology Fast 500", "textHtml": "<p>Fastest Growing Agency in the Technology Fast 500</p>", "correct": true},
+        {"id": "m1_q7_b", "text": "Best Digital Agency in APAC", "textHtml": "<p>Best Digital Agency in APAC</p>", "correct": false},
+        {"id": "m1_q7_c", "text": "Most Innovative Company", "textHtml": "<p>Most Innovative Company</p>", "correct": false},
+        {"id": "m1_q7_d", "text": "Best Workplace Culture", "textHtml": "<p>Best Workplace Culture</p>", "correct": false}
+      ],
+      "feedback": "Overdose was named the Fastest Growing Agency in the Deloitte Technology Fast 500, which ranks companies by revenue growth rate.",
+      "feedbackHtml": "<p>Overdose was named the Fastest Growing Agency in the Deloitte Technology Fast 500, which ranks companies by revenue growth rate.</p>"
+    },
+    {
+      "id": "m1_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How did Ryan Delaney and Todd Welling first meet?",
+      "questionHtml": "<p>How did Ryan Delaney and Todd Welling first meet?</p>",
+      "answers": [
+        {"id": "m1_q8_a", "text": "Through the trade — Todd's agency was contracted to help Federation Clothing where Ryan worked", "textHtml": "<p>Through the trade — Todd's agency was contracted to help Federation Clothing where Ryan worked</p>", "correct": true},
+        {"id": "m1_q8_b", "text": "They were university classmates", "textHtml": "<p>They were university classmates</p>", "correct": false},
+        {"id": "m1_q8_c", "text": "They met at an industry conference", "textHtml": "<p>They met at an industry conference</p>", "correct": false},
+        {"id": "m1_q8_d", "text": "They were introduced by a mutual investor", "textHtml": "<p>They were introduced by a mutual investor</p>", "correct": false}
+      ],
+      "feedback": "Ryan and Todd met in 2012 'through the trade' when Todd's digital agency was contracted to help Federation Clothing, where Ryan worked as a graphic designer.",
+      "feedbackHtml": "<p>Ryan and Todd met in 2012 'through the trade' when Todd's digital agency was contracted to help Federation Clothing, where Ryan worked as a graphic designer.</p>"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Module 5 Quiz: Roles & How We Work",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "m5_q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Who is the Group Chief Executive Officer of Overdose?",
+      "questionHtml": "<p>Who is the Group Chief Executive Officer of Overdose?</p>",
+      "answers": [
+        {"id": "m5_q1_a", "text": "Paul Pritchard", "textHtml": "<p>Paul Pritchard</p>", "correct": true},
+        {"id": "m5_q1_b", "text": "Todd Welling", "textHtml": "<p>Todd Welling</p>", "correct": false},
+        {"id": "m5_q1_c", "text": "Ryan Delaney", "textHtml": "<p>Ryan Delaney</p>", "correct": false},
+        {"id": "m5_q1_d", "text": "Laura Jackson", "textHtml": "<p>Laura Jackson</p>", "correct": false}
+      ],
+      "feedback": "Paul Pritchard is the Group Chief Executive Officer of Overdose. Todd Welling (co-founder) is Group Chief Strategy Officer, Ryan Delaney (co-founder) is Group Chief Experience Officer, and Laura Jackson is CEO Australia.",
+      "feedbackHtml": "<p>Paul Pritchard is the Group Chief Executive Officer of Overdose. Todd Welling (co-founder) is Group Chief Strategy Officer, Ryan Delaney (co-founder) is Group Chief Experience Officer, and Laura Jackson is CEO Australia.</p>"
+    },
+    {
+      "id": "m5_q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are discipline teams at Overdose? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are discipline teams at Overdose? (Select all that apply)</p>",
+      "answers": [
+        {"id": "m5_q2_a", "text": "Strategy", "textHtml": "<p>Strategy</p>", "correct": true},
+        {"id": "m5_q2_b", "text": "Experience (UX/UI)", "textHtml": "<p>Experience (UX/UI)</p>", "correct": true},
+        {"id": "m5_q2_c", "text": "Legal", "textHtml": "<p>Legal</p>", "correct": false},
+        {"id": "m5_q2_d", "text": "Technology", "textHtml": "<p>Technology</p>", "correct": true}
+      ],
+      "feedback": "Overdose's main discipline teams include Strategy, Experience (UX/UI), Technology, Marketing, SEO, and Data & Analytics. Legal is not one of the core discipline teams.",
+      "feedbackHtml": "<p>Overdose's main discipline teams include Strategy, Experience (UX/UI), Technology, Marketing, SEO, and Data & Analytics. Legal is not one of the core discipline teams.</p>"
+    },
+    {
+      "id": "m5_q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the key difference between Overdose's approach and traditional agency handoffs?",
+      "questionHtml": "<p>What is the key difference between Overdose's approach and traditional agency handoffs?</p>",
+      "answers": [
+        {"id": "m5_q3_a", "text": "Integrated teams work simultaneously instead of sequential handoffs between silos", "textHtml": "<p>Integrated teams work simultaneously instead of sequential handoffs between silos</p>", "correct": true},
+        {"id": "m5_q3_b", "text": "We use more project managers to coordinate handoffs", "textHtml": "<p>We use more project managers to coordinate handoffs</p>", "correct": false},
+        {"id": "m5_q3_c", "text": "We have longer timelines between each phase", "textHtml": "<p>We have longer timelines between each phase</p>", "correct": false},
+        {"id": "m5_q3_d", "text": "Each discipline works completely independently", "textHtml": "<p>Each discipline works completely independently</p>", "correct": false}
+      ],
+      "feedback": "Unlike traditional agencies with sequential handoffs (strategy → design → development → marketing), Overdose uses integrated teams where multiple disciplines engage simultaneously and collaborate continuously throughout projects.",
+      "feedbackHtml": "<p>Unlike traditional agencies with sequential handoffs (strategy → design → development → marketing), Overdose uses integrated teams where multiple disciplines engage simultaneously and collaborate continuously throughout projects.</p>"
+    },
+    {
+      "id": "m5_q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Slack primarily used for at Overdose?",
+      "questionHtml": "<p>What is Slack primarily used for at Overdose?</p>",
+      "answers": [
+        {"id": "m5_q4_a", "text": "Quick questions, informal discussion, and real-time team coordination", "textHtml": "<p>Quick questions, informal discussion, and real-time team coordination</p>", "correct": true},
+        {"id": "m5_q4_b", "text": "Client billing and invoicing", "textHtml": "<p>Client billing and invoicing</p>", "correct": false},
+        {"id": "m5_q4_c", "text": "Storing all project files and documents", "textHtml": "<p>Storing all project files and documents</p>", "correct": false},
+        {"id": "m5_q4_d", "text": "Performance reviews and HR matters", "textHtml": "<p>Performance reviews and HR matters</p>", "correct": false}
+      ],
+      "feedback": "Slack is our primary real-time communication platform, used for quick questions, informal discussions, and team coordination. Email is used for external communication and formal documentation.",
+      "feedbackHtml": "<p>Slack is our primary real-time communication platform, used for quick questions, informal discussions, and team coordination. Email is used for external communication and formal documentation.</p>"
+    },
+    {
+      "id": "m5_q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Who leads the Australian operations at Overdose?",
+      "questionHtml": "<p>Who leads the Australian operations at Overdose?</p>",
+      "answers": [
+        {"id": "m5_q5_a", "text": "Laura Jackson (CEO Australia)", "textHtml": "<p>Laura Jackson (CEO Australia)</p>", "correct": true},
+        {"id": "m5_q5_b", "text": "Jenny Mesdag (CEO Americas)", "textHtml": "<p>Jenny Mesdag (CEO Americas)</p>", "correct": false},
+        {"id": "m5_q5_c", "text": "Paul Pritchard (Group CEO)", "textHtml": "<p>Paul Pritchard (Group CEO)</p>", "correct": false},
+        {"id": "m5_q5_d", "text": "Todd Welling (Group CSO)", "textHtml": "<p>Todd Welling (Group CSO)</p>", "correct": false}
+      ],
+      "feedback": "Laura Jackson is the CEO Australia, leading Australian operations including the Sydney, Melbourne, and Brisbane teams. Jenny Mesdag is CEO Americas.",
+      "feedbackHtml": "<p>Laura Jackson is the CEO Australia, leading Australian operations including the Sydney, Melbourne, and Brisbane teams. Jenny Mesdag is CEO Americas.</p>"
+    },
+    {
+      "id": "m5_q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the correct principle for time tracking at Overdose?",
+      "questionHtml": "<p>What is the correct principle for time tracking at Overdose?</p>",
+      "answers": [
+        {"id": "m5_q6_a", "text": "Track honestly and accurately, log time daily, use clear descriptions", "textHtml": "<p>Track honestly and accurately, log time daily, use clear descriptions</p>", "correct": true},
+        {"id": "m5_q6_b", "text": "Log all time at the end of each month", "textHtml": "<p>Log all time at the end of each month</p>", "correct": false},
+        {"id": "m5_q6_c", "text": "Only track time when working on billable projects", "textHtml": "<p>Only track time when working on billable projects</p>", "correct": false},
+        {"id": "m5_q6_d", "text": "Round up all time entries to the nearest hour", "textHtml": "<p>Round up all time entries to the nearest hour</p>", "correct": false}
+      ],
+      "feedback": "Time tracking at Overdose requires honesty and accuracy, daily logging (not waiting to remember later), clear descriptions, correct categorization, and asking if unsure how to log something.",
+      "feedbackHtml": "<p>Time tracking at Overdose requires honesty and accuracy, daily logging (not waiting to remember later), clear descriptions, correct categorization, and asking if unsure how to log something.</p>"
+    },
+    {
+      "id": "m5_q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What role does the Strategy team play in client engagements?",
+      "questionHtml": "<p>What role does the Strategy team play in client engagements?</p>",
+      "answers": [
+        {"id": "m5_q7_a", "text": "Leads discovery, develops commerce strategies, manages client relationships, and ensures all work aligns with business goals", "textHtml": "<p>Leads discovery, develops commerce strategies, manages client relationships, and ensures all work aligns with business goals</p>", "correct": true},
+        {"id": "m5_q7_b", "text": "Only handles billing and invoicing for clients", "textHtml": "<p>Only handles billing and invoicing for clients</p>", "correct": false},
+        {"id": "m5_q7_c", "text": "Designs all user interfaces and experiences", "textHtml": "<p>Designs all user interfaces and experiences</p>", "correct": false},
+        {"id": "m5_q7_d", "text": "Manages the technical infrastructure", "textHtml": "<p>Manages the technical infrastructure</p>", "correct": false}
+      ],
+      "feedback": "The Strategy team leads client discovery, develops commerce strategies and roadmaps, manages ongoing client relationships, ensures all work aligns with business goals, and advises clients on priorities and investments.",
+      "feedbackHtml": "<p>The Strategy team leads client discovery, develops commerce strategies and roadmaps, manages ongoing client relationships, ensures all work aligns with business goals, and advises clients on priorities and investments.</p>"
+    },
+    {
+      "id": "m5_q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What should you do when you're stuck with a tool at Overdose?",
+      "questionHtml": "<p>What should you do when you're stuck with a tool at Overdose?</p>",
+      "answers": [
+        {"id": "m5_q8_a", "text": "Check documentation, ask your team, ask IT, search Slack — don't suffer in silence", "textHtml": "<p>Check documentation, ask your team, ask IT, search Slack — don't suffer in silence</p>", "correct": true},
+        {"id": "m5_q8_b", "text": "Figure it out yourself without asking for help", "textHtml": "<p>Figure it out yourself without asking for help</p>", "correct": false},
+        {"id": "m5_q8_c", "text": "Ignore the tool and find a workaround", "textHtml": "<p>Ignore the tool and find a workaround</p>", "correct": false},
+        {"id": "m5_q8_d", "text": "Wait until someone notices you're struggling", "textHtml": "<p>Wait until someone notices you're struggling</p>", "correct": false}
+      ],
+      "feedback": "When stuck with a tool, the best approach is: 1) Check documentation, 2) Ask your team, 3) Ask IT for access issues, 4) Search Slack, 5) Use training resources. Don't suffer in silence — it's faster to ask than to struggle.",
+      "feedbackHtml": "<p>When stuck with a tool, the best approach is: 1) Check documentation, 2) Ask your team, 3) Ask IT for access issues, 4) Search Slack, 5) Use training resources. Don't suffer in silence — it's faster to ask than to struggle.</p>"
+    }
+  ]
+}
